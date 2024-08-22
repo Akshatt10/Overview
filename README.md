@@ -1,12 +1,9 @@
-# Hi 👋, I'm [Your Name]
-### Full Stack Developer | Web3 Enthusiast
+# Hi 👋, I'm [Akshat Tyagi]
+### Full Stack Developer | Data Analyst ethusiast
 
-- 🔭 I'm currently working on [Project Name].
-- 🌱 I'm currently learning Rust, TypeScript, and exploring Solana.
-- 👯 I'm looking to collaborate on Web3 Communities.
-- 🤔 I'm looking for help with Interoperability and Smart Contract Auditing.
-- 💬 Ask me about Full Stack Web3, Blockchain, DeFi, and DAOs.
-- 📫 How to reach me: [Your Email]
+- 🔭 I'm currently a 4th year B-tech CSE student.
+- 🌱 Currently working on my development skills with various projects.
+- 👯 I'm looking for Data analyst or SDE roles as an intern.
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
